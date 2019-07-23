@@ -5,7 +5,9 @@ class hero extends Component{
 render(){
 return(
 <styled.container >
-  
+  <styled.heroBox>
+
+  </styled.heroBox>
 </styled.container>
 
 )
